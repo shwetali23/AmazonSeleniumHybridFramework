@@ -1,0 +1,4 @@
+com\myntra\test\hybridframework\dataprovider\PropertyFileReader.class
+com\myntra\test\hybridframework\testcases\TestAmazonMainWebpage.class
+com\myntra\test\hybridframework\factory\BrowserFactory.class
+com\myntra\test\hybridframework\dataprovider\ExcelReader.class
